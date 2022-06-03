@@ -6,7 +6,6 @@
         const Tubo = document.querySelector('.Tubo');
         const nuvem = document.querySelector('.nuvem');
 
-        nuvem.style.animation = '';
         const jump = () => {
         P ++;
         r.innerHTML = 'Pontuação: ' + P;  
